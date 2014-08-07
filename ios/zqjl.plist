@@ -17,11 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>foo.bar.Bootplate</string>
+				<string>com.eteng.zqjl</string>
 				<key>bundle-version</key>
 				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>title</key>
+				<string>zqjl</string>
 			</dict>
 		</dict>
 	</array>
