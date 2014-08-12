@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.eteng.zqjlld</string>
+				<string>com.eteng.zqjla</string>
 				<key>bundle-version</key>
 				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>zqjlld</string>
+				<string>zqjla</string>
 			</dict>
 		</dict>
 	</array>
