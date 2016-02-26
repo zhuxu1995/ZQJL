@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://191.168.0.116:8080/app/qdzs.ipa</string>
+					<string>http://192.168.0.116:8080/app/qdzs.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
